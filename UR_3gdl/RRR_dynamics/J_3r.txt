@@ -1,0 +1,6 @@
+{-((d2 + d3)*Cos[q1]) - (al2*Cos[q2] + al3*Cos[q2 + q3])*Sin[q1], -(Cos[q1]*(al2*Sin[q2] + al3*Sin[q2 + q3])), -(al3*Cos[q1]*Sin[q2 + q3])}
+{Cos[q1]*(al2*Cos[q2] + al3*Cos[q2 + q3]) - (d2 + d3)*Sin[q1], -(Sin[q1]*(al2*Sin[q2] + al3*Sin[q2 + q3])), -(al3*Sin[q1]*Sin[q2 + q3])}
+{0, -(al2*Cos[q2]) - al3*Cos[q2 + q3], -(al3*Cos[q2 + q3])}
+{0, -Sin[q1], -Sin[q1]}
+{0, Cos[q1], Cos[q1]}
+{1, 0, 0}
